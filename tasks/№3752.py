@@ -10,4 +10,3 @@ for i in numbers:
         new_numbers.add(i)
     else: print('YES')
 
-
